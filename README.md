@@ -2,8 +2,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-roopeshvs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roopesh-vs/)](https://www.linkedin.com/in/roopesh-vs/)
 [![Gmail Badge](https://img.shields.io/badge/-txtmeroopesh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:txtmeroopesh@gmail.com)](mailto:txtmeroopesh@gmail.com)
 
-## Hi 👋, 
-I'm Roopesh V S, I'm a Software Developer 💻 who is fervent about creating new stuff and fixing old stuff.
+## Hello 👋, 
+I'm Roopesh V S, a Software Developer 💻 who is fervent about creating new stuff and fixing old stuff.
 
 - 🔭 I’m currently working on C++ and Python apps
 - 🌱 I’m currently learning Angular and Graph Databases
