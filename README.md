@@ -1,18 +1,13 @@
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=roopeshvs&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=stars,contribs&include_all_commits=true">
-</p>
+# :man_technologist: Roopesh V S
+[![Linkedin Badge](https://img.shields.io/badge/-roopeshvs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roopesh-vs/)](https://www.linkedin.com/in/roopesh-vs/)
+[![Gmail Badge](https://img.shields.io/badge/-txtmeroopesh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:txtmeroopesh@gmail.com)](mailto:txtmeroopesh@gmail.com)
 
-<!--
-**roopeshvs/roopeshvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, 
+I'm Roopesh V S, I'm a Software Developer 💻 who is fervent about creating new stuff and fixing old stuff.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on C++ and Python apps
+- 🌱 I’m currently learning Angular and Graph Databases
+- 💬 Ask me about: Tech, Programming, Quizzing, Movies, Music, and Memes. (Not necessarily in that order).
+- ⚡ Frameworks: Django.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"Do stuff. Be clenched, curious. Not waiting for inspiration's shove or society's kiss on your forehead. Pay attention. It's all about paying attention. Attention is vitality. It connects you with others. It makes you eager. stay eager." - :woman: Susan Sontag.
