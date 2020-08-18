@@ -6,7 +6,7 @@
 I'm Roopesh V S, a Software Developer 💻 who is fervent about creating new stuff and fixing old stuff.
 
 - 🔭 I’m currently working on C++ and Python apps
-- 🌱 I’m currently learning Angular and Graph Databases
+- 🌱 I’m currently learning Graph Databases
 - 💬 Ask me about: Tech, Programming, Quizzing, Movies, Music, and Memes. (Not necessarily in that order).
 - ⚡ Frameworks: Django.
 
