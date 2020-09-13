@@ -6,7 +6,6 @@
 I'm someone who is fervent about creating new stuff and fixing old stuff.
 
 - :star2: I’m currently working on Python and C++ Applications.
-- :page_with_curl: I’m currently learning Graph Databases and Information Security Features.
 - 💬 Ask me about: Programming, Quizzing, Movies, Music, and Memes. *(Not necessarily in that order)*.
 - ⚡ Frameworks: Django, Flask.
 - :coffee: Coffee and :video_game: Dota 2 keeps me up.
