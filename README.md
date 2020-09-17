@@ -9,7 +9,6 @@ I'm someone who is fervent about creating new stuff and fixing old stuff.
 - 💬 Ask me about: Programming, Quizzing, Movies, Music, and Memes. *(Not necessarily in that order)*.
 - ⚡ Frameworks: Django, Flask.
 - :coffee: Coffee and :video_game: Dota 2 keeps me up.
-- :black_nib: Writer @Noteworthy - The Journal Blog
 
 "Do stuff. Be clenched, curious. Not waiting for inspiration's shove or society's kiss on your forehead. Pay attention. It's all about paying attention. Attention is vitality. It connects you with others. It makes you eager. Stay eager." - :woman: Susan Sontag.
 
