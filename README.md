@@ -1,6 +1,5 @@
 # :man_technologist: Roopesh V S
 [![Linkedin Badge](https://img.shields.io/badge/-roopeshvs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roopesh-vs/)](https://www.linkedin.com/in/roopesh-vs/)
-[![Gmail Badge](https://img.shields.io/badge/-txtmeroopesh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:txtmeroopesh@gmail.com)](mailto:txtmeroopesh@gmail.com)
 
 ## Hello 👋, 
 I'm someone who is fervent about creating new stuff and fixing old stuff.
